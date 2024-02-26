@@ -1,4 +1,4 @@
-## List of all Products on [Pixelcodes](https://pixelcodes.com/) - Last Update: 26.02.2024
+## Summary of all Products on [Pixelcodes](https://pixelcodes.com/) - Last Update: 26.02.2024
 
 |Description|Link|
 |---|---|
